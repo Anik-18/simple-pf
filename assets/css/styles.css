@@ -251,7 +251,7 @@ img{
 .home__img{
     position: absolute;
     right: 0;
-    bottom: 30px;
+    bottom: 0px;
     width: 295px!important;
     border-radius: 12px;
 }
